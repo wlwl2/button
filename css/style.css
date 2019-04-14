@@ -1,3 +1,11 @@
-body {
+.styled-button-tag {
+  border: none;
+  padding: 0;
+  background-color: transparent;
+}
 
+.styled-input-tag {
+  border: none;
+  padding: 0;
+  background-color: transparent;
 }
